@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Fernando Brum",
+      "email": "dev.fobrum@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Fulano de Tal",
+      "email": "fulano@tal.com",
+      "id": 2
+    }
+  ]
+}
